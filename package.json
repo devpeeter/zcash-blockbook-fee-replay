@@ -1,0 +1,12 @@
+{
+  "name": "zcash-blockbook-receipt-evidence",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@anywalletkit/wallet-zcash": "0.5.4"
+  }
+}

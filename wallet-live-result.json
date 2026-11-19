@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "recorded_utc": "2026-11-18T21:06:58.683Z",
+  "package": "@anywalletkit/wallet-zcash",
+  "version": "0.5.4",
+  "method": "WalletAccountReadOnlyZcash.getTransactionReceipt",
+  "reference_source": "live independent Zebra RPC",
+  "txid": "aac3fa0faf4804c62fc21cdd798b4ad992d981d003a2cdf74ec51599720da90e",
+  "height": 3584389,
+  "block_hash": "00000000011a9ccfb11df7ccc0f96ed689291854df09d706078761af5b6e90c3",
+  "blockbook_zat": "0",
+  "stock_wallet_zat": "0",
+  "corrected_wallet_zat": "15000",
+  "independent_zebra_zat": "15000",
+  "confirmations": {
+    "stock": 2989,
+    "corrected": 2989
+  }
+}

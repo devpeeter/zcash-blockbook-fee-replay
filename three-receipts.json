@@ -1,0 +1,32 @@
+[
+  {
+    "label": "November 17",
+    "txid": "aac3fa0faf4804c62fc21cdd798b4ad992d981d003a2cdf74ec51599720da90e",
+    "height": 3584389,
+    "hash": "00000000011a9ccfb11df7ccc0f96ed689291854df09d706078761af5b6e90c3",
+    "blockbook_zat": 0,
+    "corrected_zat": 15000,
+    "independent_zecblock_zat": 15000,
+    "status": "PASS"
+  },
+  {
+    "label": "November 17",
+    "txid": "72dec0378794ece65acff91a05355eb543eeb8dc19c90441ae8b64690aab11c2",
+    "height": 3584390,
+    "hash": "0000000000592259d4344a8f0433ff0f36e3e919cb588c912c22546280b301ac",
+    "blockbook_zat": 1683176885,
+    "corrected_zat": 15000,
+    "independent_zecblock_zat": 15000,
+    "status": "PASS"
+  },
+  {
+    "label": "2024 historical control",
+    "txid": "63679fc7f9628bc5065636813ee6adbe89f6dfdf3635524ac0792b344a9fd588",
+    "height": 2726407,
+    "hash": "0000000000949546f37233f8dee9531dd1c578d2c569af22513f269c7e74599f",
+    "blockbook_zat": 7256179835,
+    "corrected_zat": 155000,
+    "independent_zecblock_zat": 155000,
+    "status": "PASS"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "independent_url": "https://zcash-mainnet-zebrad.gateway.tatum.io",
+  "independent_client": "/Zebra:7.1.0/",
+  "chain": "main",
+  "observed_tip_selected": {
+    "height": 3584498,
+    "hash": "0000000000aa9cc534c29674692c36b44b415e86a4e109922c018f1c2442a566"
+  },
+  "independent_followup_tip": {
+    "height": 3584504,
+    "hash": "0000000000df71a8fcdb3eae927d0009455abcea809ae7c5294a05133258091c"
+  },
+  "sample_range": [
+    3584389,
+    3584488
+  ],
+  "pinned_end_hash": "0000000000a7c779f034142ed7430b24cb820dfb7cc5c26bab01ed07ee9e4ba5",
+  "blockbook_api": "https://docs-demo.zec-mainnet.quiknode.pro/api/v2",
+  "blockbook_build": "not exposed by the tested metadata routes",
+  "wallet_package": "@anywalletkit/wallet-zcash@0.5.4"
+}
